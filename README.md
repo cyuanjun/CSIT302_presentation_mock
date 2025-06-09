@@ -1,2 +1,2 @@
 # CSIT302_presentation_mock
-Mock website for presentation
+Mock website for cybersecurity assignment presentation
